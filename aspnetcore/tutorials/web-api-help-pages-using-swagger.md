@@ -314,7 +314,7 @@ Enable static files middleware.
    }
    ```
 
-Acquire the core *index.html* file used for the Swagger UI page from the `Github repository <https://github.com/domaindrivendev/Swashbuckle.AspNetCore/blob/1.0.0-rc1/test/WebSites/CustomIndexHtml/wwwroot/swagger/index.html>`_ and put that in the `wwwroot/swagger` folder and also create a new `custom.css` file in the same folder.
+Acquire the core *index.html* file used for the Swagger UI page from the [Github repository](https://github.com/domaindrivendev/Swashbuckle.AspNetCore/blob/master/test/WebSites/CustomIndexHtml/wwwroot/swagger/index.html), and put that in the `wwwroot/swagger` folder and also create a new `custom.css` file in the same folder.
 
 ![Solution Explorer showing Swagger UI custom css and html files within the wwwroot folder of the application](web-api-help-pages-using-swagger/_static/custom-files-folder-view.png)
 
